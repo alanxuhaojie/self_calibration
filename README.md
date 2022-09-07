@@ -1,1 +1,1 @@
-for the paper
+Given a set of auto- and cross-correlations, the self-calibration code is able to find the scattering rates between multiple photometric bins. The update rules are carefully derived in the appendix of Zhang+2017 (arXiv: 1612.04042). 
